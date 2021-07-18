@@ -1,0 +1,5 @@
+- I am, The Original YEET
+- 12th grade student preparing for JEE
+- Amatuer in Python, Lua (Rainmeter) and digital artisan crafts
+- Avid Reddit user
+- Interested in Learning Python, CSS, Javascript

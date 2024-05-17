@@ -17,8 +17,9 @@ for Programming & Design. Confident in ability to coordinate events and schedule
 - **Cloud Services**: ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 - **Graphic Design**: ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
 - **Text Editors**: ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat&logo=vim&logoColor=white)
-- **Scripting**: ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+- **Scripting**: ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) ![Linux Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white) ![Powershell](https://img.shields.io/badge/Powershell-2CA5E0?style=flate&logo=powershell&logoColor=white)
 - **Customization**: ![Rainmeter](https://img.shields.io/badge/-Rainmeter-0099CC?style=flat&logo=rainmeter&logoColor=white)
+- **Operating Systems**: ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flate&logo=ubuntu&logoColor=white)
 
 ---
 
@@ -49,8 +50,7 @@ Actively involved in my local tech community, providing coding assistance and gu
 
 ## 📫 Get in Touch
 
-- **Email**: [sameensardar@gmail.com](mailto:sameensardar@gmail.com)
+- ![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white): [sameensardar@gmail.com](mailto:sameensardar@gmail.com)
 - ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white) : [Sameen Sardar S](https://www.linkedin.com/in/sameen-sardar)
-- **[Contact Form](https:simplysameen.netlify.app/#contact)**
 
-Feel free to reach out if you have any questions or just want to connect!
+## *[Feel free to reach out if you have any questions or just want to connect!](https:simplysameen.netlify.app/#contact)**

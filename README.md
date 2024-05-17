@@ -50,7 +50,7 @@ Actively involved in my local tech community, providing coding assistance and gu
 ## 📫 Get in Touch
 
 - **Email**: [sameensardar@gmail.com](mailto:sameensardar@gmail.com)
-- **LinkedIn**: [Sameen Sardar S](https://www.linkedin.com/in/sameen-sardar)
+- ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) : [Sameen Sardar S](https://www.linkedin.com/in/sameen-sardar)
 - **[Contact Form](https:simplysameen.netlify.app/#contact)**
 
 Feel free to reach out if you have any questions or just want to connect!

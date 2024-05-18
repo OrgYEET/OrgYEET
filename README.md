@@ -1,9 +1,7 @@
-# Hi there, I'm Sameen Sardar S 👋
+# Hi there, I'm Sameen Sardar S <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVvNm9ncXR1YjZnbDd1d2V6aXhtb2t5enpuMHgxaHMxazM2NjZ0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QssGEmpkyEOhBCb7e1/giphy.gif" width="35">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=2000&random=false&width=435&lines=Graphic+Designer;Web+Developer;Bachelors+in+Comp+Sc)](https://git.io/typing-svg)
 
-## [Visit my Digital Portfolio](https://simplysameen.netlify.app)
-
-## About Me
-
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTA4ZDMwMzR6bnliaGhnMTdpa2szMDVrc3FweXFjNDNsMmNzdWQ4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/I3hOg9XQ8ZmnezE4e6/giphy.gif" width="40"> [Visit my Digital Portfolio](https://simplysameen.netlify.app)
 I'm a freelance Graphic Designer and Web Developer, excelling in Content and Copywriting with experience in Compering and Training people
 for Programming & Design. Confident in ability to coordinate events and schedules, comfortable in managing students
 & participants and committed to continuous improvement for both team and myself.
@@ -23,22 +21,6 @@ for Programming & Design. Confident in ability to coordinate events and schedule
 
 ---
 
-## 🌟 Projects & Contributions
-
-### 🌐 [Portfolio Website](https://simplysameen.netlify.app)
-A fully responsive portfolio website built with HTML, CSS, and JavaScript, showcasing my projects and contributions.
-
-### 📊 Rainmeter Widgets
-Developed various Rainmeter widgets using Lua, including system monitors and productivity tools. [Check them out]([https://your-rainmeter-widgets-link.com](https://www.deviantart.com/theoriginalyeet/gallery/80657176/personalization)).
-
-### 📚 Teaching & Mentorship
-Conducted workshops and meetups on web development, and graphic design, helping beginners and intermediate developers enhance their skills.
-
-### 📈 Community Contributions
-Actively involved in my local tech community, providing coding assistance and guidance to fellow developers.
-
----
-
 ## 📜 Certifications
 
 - **Responsive Web Design**: [FreeCodeCamp](https://freecodecamp.org/certification/simplysameen/responsive-web-design)
@@ -48,9 +30,16 @@ Actively involved in my local tech community, providing coding assistance and gu
 
 ---
 
-## 📫 Get in Touch
+<p align="center">
+<a href="https://simplysameen.netlify.app"><img alt="Website" src="https://img.shields.io/badge/Website-simplysameen-red?style=flat-square&logo=netlify"></a>
+<a href="https://www.linkedin.com/in/sameen-sardar/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sameen Sardar-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/simply.sameen/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-simply.sameen-green?style=flat-square&logo=instagram"></a>
+<a href="mailto:sameensardar@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sameensardar@gmail.com-yellow?style=flat-square&logo=gmail"></a>
+</p>
+<p align="center">
+  <a href="https://simplysameen.netlify.app/#contact"><img alt="CContact Form" src="https://img.shields.io/badge/Click Here to Redirect-Contact Form-blue?style=flat-square&logo=contact"></a>
+</p>
 
-- ![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white): [sameensardar@gmail.com](mailto:sameensardar@gmail.com)
-- ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white) : [Sameen Sardar S](https://www.linkedin.com/in/sameen-sardar)
-
-## *[Feel free to reach out if you have any questions or just want to connect!](https:simplysameen.netlify.app/#contact)**
+<p align="center">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmUzaGw2bnhhcDRxd3pnN3c2eWp5bWI5bzZxZjY4aDJkamd0ODF6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CAM1sOA4pKGuzKlIPt/giphy.gif">
+</p>

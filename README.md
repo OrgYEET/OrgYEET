@@ -1,5 +1,8 @@
-# Hi there, I'm Sameen Sardar S <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVvNm9ncXR1YjZnbDd1d2V6aXhtb2t5enpuMHgxaHMxazM2NjZ0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QssGEmpkyEOhBCb7e1/giphy.gif" width="35">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=2000&random=false&width=435&lines=Graphic+Designer;Web+Developer;Bachelors+in+Comp+Sc)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHFobHFvazhjN2x0aG9weDR2cmgzY3lxbTZ0eHN5a24zNDhzbW05cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Vf3ZKdillTMOOaOho0/giphy.gif" width="200">
+<h1>Hi there, I'm Sameen Sardar S</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=04C90B&center=true&random=false&width=435&lines=Graphic+Designer;Web+Developer;Digital+Personalisation;+BTech+in+Comp+Sc" alt="Typing SVG" /></a>
+</div>
 
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTA4ZDMwMzR6bnliaGhnMTdpa2szMDVrc3FweXFjNDNsMmNzdWQ4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/I3hOg9XQ8ZmnezE4e6/giphy.gif" width="40"> [Visit my Digital Portfolio](https://simplysameen.netlify.app)
 I'm a freelance Graphic Designer and Web Developer, excelling in Content and Copywriting with experience in Compering and Training people
